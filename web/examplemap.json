@@ -1,0 +1,13 @@
+{
+    "height": 5, "layers": [
+        {"data": [24, 24, 11, 19, 19, 19, 19, 19, 19, 12, 24, 24, 18, 1, 1, 1, 1, 1, 1, 20, 24, 24, 18, 4, 4, 4, 1, 1, 1, 20, 24, 24, 18, 4, 4, 4, 1, 1, 1, 20, 24, 24, 10, 13, 13, 13, 13, 13, 13, 9], "height": 5, "name": "Tile Layer 1", "opacity": 1, "type": "tilelayer", "visible": true, "width": 10, "x": 0, "y": 0},
+        {"objects": [
+            {"gid": 9, "height": 0, "name": "", "properties": {}, "type": "", "visible": true, "width": 0, "x": 64, "y": 0, "rotation": 0}
+        ], "height": 5, "name": "Object Layer 1", "opacity": 1, "type": "objectgroup", "visible": true, "width": 10, "x": 0, "y": 0}
+    ], "orientation": "isometric", "properties": {
+        "prop1": "foo1"
+    },
+    "tileheight": 32, "tilesets": [
+        {"firstgid": 1, "image": "isometric_grass_and_water.png", "imageheight": 384, "imagewidth": 256, "margin": 0, "name": "isometric_grass_and_water", "properties": {}, "spacing": 0, "tileheight": 64, "tileproperties": {"0": {"foo": "a"}}, "tilewidth": 64}
+    ], "tilewidth": 64, "version": 1.000000, "width": 10
+}

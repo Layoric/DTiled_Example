@@ -1,0 +1,6 @@
+name: DTiled_Example
+description: A sample web application
+dependencies:
+  browser: any
+  dtiled: any
+  game_loop: any
