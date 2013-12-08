@@ -59,7 +59,6 @@ void InitialiseCanvas() {
     }
   });
   window.onKeyDown.listen((e) {
-    print(e.keyCode.toString());
     if(e.keyCode == 37) {
 
       camera.Target.x -= 5.0;
